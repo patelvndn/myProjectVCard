@@ -1,0 +1,21 @@
+To-do List: 
+
+- CSS for Flask VCard Generator 
+- Post Core react dev
+- Start Speech Synthesization (a program that can detect what kind of Language you are speaking) c#
+- Call mom
+- Project 10 SW2 
+
+Ideas for CSE website Project:
+- Link to Course Description :)
+- Tooltip for each button.
+
+Another Project Idea:
+- Web Scraper that can extract the images from a page
+- bonus points if you can target specific images
+
+Final Exam Dates
+- SW2: April 27th, 12-1:45
+- FN1: April 27th, 10-11:45
+- Stats: April 27th 8-9:45pm
+- History: Online...
