@@ -36,6 +36,7 @@ def index():
         # Generate a publicly accessible URL for the vCard file
         url = request.host_url + filename
 
+        #test for git
         return render_template('result.html', url=url)
 
     return render_template('index.html')
